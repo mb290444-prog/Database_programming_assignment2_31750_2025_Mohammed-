@@ -43,8 +43,8 @@ I successfully accessed the Oracle Enterprise Manager (OEM) Database Express to 
 
 ### Evidence:
 1. **OEM Dashboard:**
-[Task 3 OEM Dashboard](2e7361b9_2dae_40c5_a5d2_aa7836ebb3e3)
+![Task 3 OEM Dashboard](2e7361b9_2dae_40c5_a5d2_aa7836ebb3e3)
 
 2. **Container Verification via SQL Plus:**
-[Task 3 SQL Plus Verification](task3_sqlplus_verification.png)
+![Task 3 SQL Plus Verification](task3_sqlplus_verification.png)
 
