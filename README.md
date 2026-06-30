@@ -34,3 +34,17 @@ DROP PLUGGABLE DATABASE MO_TO_DELETE_PDB_31750 INCLUDING DATAFILES;
 SHOW PDBS;
 
 <img width="937" height="482" alt="task2_pdb_created_and_deleted" src="https://github.com/user-attachments/assets/1e296f2e-c5b8-4bce-81cd-3280cfea99e9" />
+
+
+
+## Task 3: Oracle Enterprise Manager (OEM) and Environment Verification
+
+I successfully accessed the Oracle Enterprise Manager (OEM) Database Express to monitor my Oracle environment. The dashboard confirms the database instance details, version, and status. Additionally, I verified the container environment using SQL Plus to ensure accurate configuration.
+
+### Evidence:
+1. **OEM Dashboard:**
+[Task 3 OEM Dashboard](2e7361b9_2dae_40c5_a5d2_aa7836ebb3e3)
+
+2. **Container Verification via SQL Plus:**
+[Task 3 SQL Plus Verification](task3_sqlplus_verification.png)
+
